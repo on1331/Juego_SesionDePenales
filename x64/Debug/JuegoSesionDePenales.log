@@ -1,0 +1,6 @@
+﻿  JuegoSesionDePenales.cpp
+C:\Users\ASUS\Desktop\Programacion Avanzada\JuegoSesionDePenales\JuegoSesionDePenales.cpp(12,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Programacion Avanzada\JuegoSesionDePenales\JuegoSesionDePenales.cpp(32,12): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ASUS\Desktop\Programacion Avanzada\JuegoSesionDePenales\JuegoSesionDePenales.cpp(41,12): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ASUS\Desktop\Programacion Avanzada\JuegoSesionDePenales\JuegoSesionDePenales.cpp(50,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  JuegoSesionDePenales.vcxproj -> C:\Users\ASUS\Desktop\Programacion Avanzada\JuegoSesionDePenales\x64\Debug\JuegoSesionDePenales.exe
